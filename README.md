@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @crispymcmatthew
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Flutter and Firebase, after i'll learn swift for cross platform solution
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: bellettatimatteo@outlook.com or crispy_mcmatthew on IG
+- 📫 How to reach me: bellettatimatteo@outlook.com . Codewars: https://www.codewars.com/users/crispy_mcmatthew
 
 <!---
 crispymcmatthew/crispymcmatthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
